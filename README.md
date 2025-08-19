@@ -1,2 +1,1 @@
-# Belajar Kolaborasi
-belajar di Dicoding sangat menyenangkan!
+# belajar-kolaborasi
