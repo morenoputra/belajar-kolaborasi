@@ -1,2 +1,3 @@
 # belajar-kolaborasi
-lebihn seru jika belajar di dicoding
+belajar bersama<br>
+lebih seru jika belajar di dicoding
